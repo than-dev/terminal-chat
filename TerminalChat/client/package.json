@@ -1,0 +1,24 @@
+{
+  "name": "@nathancotrimdev/hacker-chat-client",
+  "version": "1.0.0",
+  "description": "execute a chat in your terminal",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "hacker-chat": "index.js"
+  },
+  "scripts": {
+    "user01": "node index.js --username pedro --room sala01 --hostUri http://localhost:3333",
+    "user02": "node index.js --username maria --room sala01 --hostUri http://localhost:3333",
+    "user03": "node index.js --username rafael --room sala02 --hostUri http://localhost:3333",
+    "user04": "node index.js --username carla --room sala02 --hostUri http://localhost:3333",
+    "user05": "node index.js --username nathan --room sala02 --hostUri",
+    "user06": "node index.js --username cotrim --room sala02 --hostUri"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
+}
