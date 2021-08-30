@@ -1,7 +1,7 @@
 const PRODUCTION_URL = 'https://hacker-chat-nc.herokuapp.com/'
 
 export default class CliConfig {
-    constructor({ username = "anonimous", hostUri = PRODUCTION_URL, room }) {
+    constructor({ username = "anonimous", hostUri = 3333, room }) {
         this.username = username
         this.room = room 
 

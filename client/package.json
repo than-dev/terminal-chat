@@ -8,7 +8,7 @@
     "hacker-chat": "index.js"
   },
   "scripts": {
-    "user01": "node index.js --username pedro --room sala01 --hostUri http://localhost:3333",
+    "user01": "node index.js --username nathan --room sala01 --hostUri http://localhost:3333",
     "user02": "node index.js --username maria --room sala01 --hostUri http://localhost:3333",
     "user03": "node index.js --username rafael --room sala02 --hostUri http://localhost:3333",
     "user04": "node index.js --username carla --room sala02 --hostUri http://localhost:3333",
