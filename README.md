@@ -53,7 +53,9 @@ Now the project are stable, to use it just enter in client folder and run:
 ```
 node index.js --username yourName --room roomName --hostUri http://localhost:3333
 ```
+<br>
 
+![Screenshot from 2021-08-30 08-43-19](https://user-images.githubusercontent.com/82950902/131336816-f4659104-e523-47e7-9c90-51f065ce1bd6.png)
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
