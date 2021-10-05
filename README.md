@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://cdn.pixabay.com/photo/2020/08/08/02/56/hacker-5471975_960_720.png" alt="Project logo"></a>
+ <img src="https://cdn.pixabay.com/photo/2020/08/08/02/56/hacker-5471975_960_720.png" alt="Project logo" width="400px" heigth="220px"></a>
 </p>
 
 <h3 align="center">Hacker Chat</h3>
