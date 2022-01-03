@@ -1,14 +1,5 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img src="https://cdn.pixabay.com/photo/2020/08/08/02/56/hacker-5471975_960_720.png" alt="Project logo" width="400px" heigth="220px"></a>
-</p>
 
-<h2 align="center">Hacker Chat</h2>
-<p align="center"> A chat that runs in terminal
-    <br> 
-</p>
-
----
+<h2 align="center">A chat runs in terminal</h2>
 
 ## 📝 Table of Contents
 
